@@ -1,0 +1,17 @@
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\bin\Debug\net8.0\StockControl-Repository.deps.json
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\bin\Debug\net8.0\StockControl-Repository.runtimeconfig.json
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\bin\Debug\net8.0\StockControl-Repository.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\bin\Debug\net8.0\StockControl-Repository.pdb
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\bin\Debug\net8.0\StockControl-Entity.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\bin\Debug\net8.0\StockControl-Entity.pdb
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.csproj.AssemblyReference.cache
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.AssemblyInfoInputs.cache
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.AssemblyInfo.cs
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.csproj.CoreCompileInputs.cache
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockCon.75BD10F6.Up2Date
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\refint\StockControl-Repository.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.pdb
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\StockControl-Repository.genruntimeconfig.cache
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\StockControl-Repository\obj\Debug\net8.0\ref\StockControl-Repository.dll

@@ -1,0 +1,11 @@
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\bin\Debug\net8.0\StockControl-Entity.deps.json
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\bin\Debug\net8.0\StockControl-Entity.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\bin\Debug\net8.0\StockControl-Entity.pdb
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\StockControl-Entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\StockControl-Entity.AssemblyInfoInputs.cache
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\StockControl-Entity.AssemblyInfo.cs
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\StockControl-Entity.csproj.CoreCompileInputs.cache
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\StockControl-Entity.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\refint\StockControl-Entity.dll
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\StockControl-Entity.pdb
+C:\Users\yunuz\source\repos\Ikbal_Hoca_API\STOCKCONTROL\StockControl-Entity\obj\Debug\net8.0\ref\StockControl-Entity.dll

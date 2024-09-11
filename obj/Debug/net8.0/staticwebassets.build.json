@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "GcGT8qfMv5u+UktauY694DMmWMgD39Dwkb0/KmspBrE=",
+  "Source": "StockControl-API",
+  "BasePath": "_content/StockControl-API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
